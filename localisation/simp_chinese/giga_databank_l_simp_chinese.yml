@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+ concept_giga_sr_amb_megaconstruction:0 "$giga_sr_amb_megaconstruction$"
+ concept_giga_sr_amb_megaconstruction_desc:0 "£giga_sr_amb_megaconstruction£ §H$giga_sr_amb_megaconstruction$§!代表可承受极端拉伸应力的先进材料，是建造最大型太空设施的关键。\n\n该资源收入越高，['concept_megastructures']建造越快。它会在所有在建巨构之间§H分摊§!，意味着同时建造多座巨构会§H降低§!总体施工速度，因而充当并行建造能力的“软上限”。\n\n此外，大多数巨构还需要支付该资源的§H维护费§!，体量越大维护费越高。\n\n提升方法：\n- 建造£building£['building:building_giga_megaworkshop_hub']或£building£['building:building_giga_megaworkshop']\n- 在含有超抗拉材料矿藏的['concept_celestial_objects']上建造£mining_station£['concept_mining_stations']"
+ concept_giga_sr_bulk_matter:0 "$giga_sr_bulk_matter$"
+ concept_giga_sr_bulk_matter_desc:0 "£giga_sr_bulk_matter£ §H$giga_sr_bulk_matter$§!代表从天体上采集来的大量低价值的未精炼物质，用作建造超大型['concept_megastructures']或拟仿行星条件的结构之填充材料。\n\n可从§H小行星§!、§H岩石行星§!与§H气态巨行星§!采集，速率为每['concept_planet_size']§Y1§!单位£giga_sr_bulk_matter£ §H$giga_sr_bulk_matter$§!。\n\n建造§H环世界§!、§H套娃脑§!、§H$name_alderson$§!、§H伯奇世界§!、§H类星天陨§!、§H超大质量E.H.O.F.§!与§H尼科尔-戴森光束§!需要该资源。\n\n它也被§H月球宏观制造厂§!与§H贝希摩斯装配厂§!分别用于打造§H战争之月§!与§H贝希摩斯行星飞船§!。\n\n若巨构在施工中§H移除了行星§!，则星系行星内的£giga_sr_bulk_matter£ §H$giga_sr_bulk_matter$§!将从初始建造阶段的成本中§H抵扣§!。剩余物将被存入恒星上方的§H大宗物质缓存§!，可随后采集。\n\n例如，若星系含有§Y75§!单位£giga_sr_bulk_matter£，则通常需要§Y100§!单位£giga_sr_bulk_matter£的§H环世界框架§!只需§Y25§!单位£giga_sr_bulk_matter£。若星系含有§Y150§!单位£giga_sr_bulk_matter£，则巨构的初始阶段不消耗£giga_sr_bulk_matter£，且§H缓存§!中会有§Y50§!单位£giga_sr_bulk_matter£可采集。后续建造阶段不受该机制影响，仍需存储的£giga_sr_bulk_matter£。\n\n提升方法：\n- 在非恒星的['concept_celestial_object']上使用§H$decision_harvest_matter_for_planetary_printing$§!['concept_decision']建造§H$moon_printer_orbital_mass_harvester_1$§!并拆解行星，每§Y6§!个月产出§Y1§!单位£giga_sr_bulk_matter£ §H$giga_sr_bulk_matter$§!。此过程不可终止，最终会§R彻底移除§!该行星。\n- 在星系的['concept_star']上选择该决议，以在['concept_system']内所有行星上同时开始该过程。"
+ concept_giga_characters:0 "知名人物"
+ concept_giga_characters_desc:0 "知名人物\n[ROOT.giga_databank_dofus_entry]"
+ giga_databank_character_entry_blank:0 ""
+ giga_databank_dofus_entry_unlocked:0 "['concept_giga_character_dofus']"
+ concept_giga_character_dofus:0 "多福斯·特克尼克·玛奇纳"
+ concept_giga_character_dofus_desc:0 "自AKA历19年至喵尾的征伐为止，多福斯·特克尼克·玛奇纳一直担任罗夸利亚的监督总统。他有时有些天真。"
+ db_gigastructures:0 "更多巨构"

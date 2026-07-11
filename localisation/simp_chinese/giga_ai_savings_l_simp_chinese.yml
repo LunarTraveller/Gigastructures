@@ -1,7 +1,7 @@
 ﻿l_simp_chinese:
  giga_ai_savings_info:0 "AI巨构储蓄信息"
  giga_ai_savings_info_desc:0 "§L财务规划助手§!"
- mod_giga_ai_savings_tooltips_minerals_produces_add:0 "显示AI为巨构建筑预留了多少资金。它们会在支持的巨构建筑的建造成本中扣除，并在开始建造时减去。\n\n§E重要经济巨构：§!\n£alloys£$alloys$：§Y[giga_ai_savings_important_alloys]§!\n£unity£$unity$：§Y[giga_ai_savings_important_unity]§!\n\n§E次要经济巨构：§!\n£alloys£$alloys$：§Y[giga_ai_savings_resource_alloys]§!\n£unity£$unity$：§Y[giga_ai_savings_resource_unity]§!\n\n§E功能性巨构：§!\n£alloys£$alloys$：§Y[giga_ai_savings_utility_alloys]§!\n£unity£$unity$：§Y[giga_ai_savings_utility_unity]§!\n\n§E军事巨构：§!\n£alloys£$alloys$：§Y[giga_ai_savings_military_alloys]§!\n£unity£$unity$：§Y[giga_ai_savings_military_unity]§!\n\n虚拟修正以显示正确数值"
+ mod_giga_ai_savings_tooltips_minerals_produces_add:0 "显示AI为巨构建筑预留了多少资金。它们会在支持的巨构建筑的建造成本中扣除，并在开始建造时减去。\n\n§E重要经济巨构：§!\n£alloys£ $alloys$：§Y[giga_ai_savings_important_alloys]§!\n£unity£ $unity$：§Y[giga_ai_savings_important_unity]§!\n\n§E次要经济巨构：§!\n£alloys£ $alloys$：§Y[giga_ai_savings_resource_alloys]§!\n£unity£ $unity$：§Y[giga_ai_savings_resource_unity]§!\n\n§E功能性巨构：§!\n£alloys£ $alloys$：§Y[giga_ai_savings_utility_alloys]§!\n£unity£ $unity$：§Y[giga_ai_savings_utility_unity]§!\n\n§E军事巨构：§!\n£alloys£ $alloys$：§Y[giga_ai_savings_military_alloys]§!\n£unity£ $unity$：§Y[giga_ai_savings_military_unity]§!\n\n虚拟修正以显示正确数值"
  giga_ai_savings_desc:0 "储蓄对该巨构建筑的成本调整。"
  giga_ai_savings_attack_moon_alloys:0 "战争之月合金"
  giga_ai_savings_attack_moon_alloys_desc:0 "$giga_ai_savings_desc$"

@@ -1,6 +1,4 @@
 ﻿l_simp_chinese:
- NAME_reicsharmee:0 "帝国陆军"
- NAME_reicsharmee_army:0 "帝国陆军特遣部队"
  NAME_aquileian:0 "阿奎莱亚卫队"
  NAME_wingbardian:0 "翼巴第武装部队"
  NAME_river:0 "河间联盟特工"
@@ -71,3 +69,5 @@
  NAME_pouchkguard_army:0 "普契金警卫"
  NAME_lab_army:0 "实验室进攻性反应单元"
  NAME_pcc_army:0 "威胁消除单元"
+ NAME_reichsarmee:0 "帝国陆军"
+ NAME_reichsarmee_army:0 "帝国陆军特遣部队"

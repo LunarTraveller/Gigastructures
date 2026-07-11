@@ -1,0 +1,3 @@
+﻿l_simp_chinese:
+ giga_debug.1.title:0 "大型物质总量"
+ giga_debug.1.desc:0 "全星系的总量为§Y[ROOT.total_galaxy_bm]§!，每个恒星系中平均有§Y[ROOT.average_galaxy_bm]§!。"

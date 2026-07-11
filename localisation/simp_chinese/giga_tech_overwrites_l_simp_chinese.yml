@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ giga_tech_ring_world_swap:0 "$utopia.2000.name$"
+ giga_tech_ring_world_swap_desc:0 "$tech_ring_world_desc$"
+ giga_tech_ring_world_swap_no_habitables:0 "大规模自复制解构群集"
+ giga_tech_ring_world_swap_no_habitables_desc:0 "行星非常、非常大。\n为了更有效的收集如此规模的材料，必须为专用采矿无人机群开发新的控制系统。"
+ giga_tech_ring_world_swap_no_habitables_bio:0 "人工解构生态系统"
+ giga_tech_ring_world_swap_no_habitables_bio_desc:0 "足够坚韧的根须终能穿透最坚硬的基岩。"
+ feature_bulk_matter:0 "§H解锁功能：§! 行星拆解"
+ feature_bulk_matter_desc:0 "解锁['concept_decisions']，用于拆解整颗行星以获得£giga_sr_bulk_matter£ §H$giga_sr_bulk_matter$§!，这是一种建造最大型巨构所需的大规模资源。"
